@@ -2,7 +2,7 @@ package test;
 
 import java.util.Scanner;
 
-public class test04 {
+public class chickenmenu {
 	
 	// 메소드 정의
 	// [접근지정자] (static) [반환타입] [메소드명]( [매개변수] ) {}
