@@ -2,7 +2,7 @@ package test;
 
 public class arrange {
 	public static void main(String[] args) {
-		// 베열 선언 및 초기화 
+		// 베열 선언 및 초기화  
 		// 배열의 크기 : 7  -> week.length 
 		String week[] = {"월","화","수","목","금","토","일"};
 		
